@@ -1,0 +1,16 @@
+{
+  "name": "Jasmine-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apps/getprime.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "scripts": {
+    "test": "spec/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
